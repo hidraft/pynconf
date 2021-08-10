@@ -1,0 +1,7 @@
+routers:
+  - router_os: iosxr
+    router_hostname: lab-iosxr
+  - router_os: huawei
+    router_hostname: lab-huawei
+  - router_os: junos
+    router_hostname: lab-junos
